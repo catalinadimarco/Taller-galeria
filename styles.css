@@ -17,3 +17,10 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+p {
+    color: rgb(114, 22, 22);
+    background-color: #d2cad6;
+    border: rgba(0, 0, 0, 0.525) solid;
+}
+
